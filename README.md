@@ -1,1 +1,1 @@
-# API-USNavalObservatory-Perl6
+# API::USNavalObservatory
